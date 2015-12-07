@@ -1,3 +1,3 @@
 void drawSubtitles(){
-  //Method stub test10
+  //Method stub
 }

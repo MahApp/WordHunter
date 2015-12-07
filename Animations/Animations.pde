@@ -1,7 +1,6 @@
 //Background
 PImage backGroundImage;
-//Subs with masterMindmaster
-
+//Subs
 
 //Rain
 
