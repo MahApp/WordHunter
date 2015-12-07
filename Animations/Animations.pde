@@ -1,10 +1,7 @@
 //Background
 PImage backGroundImage;
-//Subs with pork
-
-
+//Subs 
 //Rain
-
 //Thunder
 
 
