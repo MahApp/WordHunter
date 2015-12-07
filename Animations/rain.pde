@@ -1,3 +1,3 @@
 void rain(){
-   //Method stub
+   //Method stubben
 }
