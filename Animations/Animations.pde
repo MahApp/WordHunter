@@ -3,7 +3,6 @@ PImage backGroundImage;
 //Subs
 
 //Rain
-
 //Thunder
 
 
