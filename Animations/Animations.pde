@@ -1,6 +1,6 @@
 //Background
 PImage backGroundImage;
-//Subs with porket
+//Subs with pork
 
 
 //Rain
