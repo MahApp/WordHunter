@@ -5,6 +5,8 @@ You can view them and download them here, check out the WiKi for details:
 
 [Grupp 1: En kalender man minns](https://github.com/antonilund/IxDkalender2015)
 
+[Grupp 2: Matkalender](https://github.com/aminamuftic/julkalender)
+
 [Group 6: Hipster goes Santa](https://github.com/emilberzen/grupp6)
 
 ## P1_2015
