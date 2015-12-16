@@ -4,6 +4,7 @@ This year we built christam calendars as projects, the brief said a Christmas ca
 You can view them and download them here, check out the WiKi for details:
 
 [Grupp 1: IxD kalender](https://github.com/antonilund/IxDkalender2015)
+
 [Group 6: Hipster goes Santa](https://github.com/emilberzen/grupp6)
 
 ## P1_2015
