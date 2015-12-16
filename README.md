@@ -1,7 +1,7 @@
 #
 Projects
 This year we built christam calendars as projects, the brief said a Christmas calendar were the theme could be chosen freely.
-You can view them and download them here:
+You can view them and download them here, check out the WiKi for details:
 
 [Group 6: Hipster goes Santa](https://github.com/emilberzen/grupp6)
 
