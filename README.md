@@ -1,4 +1,11 @@
-# P1_2015
+#
+Projects
+This year we built christam calendars as projects, the brief said a Christmas calendar were the theme could be chosen freely.
+You can view them and download them here:
+
+[Group 6: Hipster goes Santa](https://github.com/emilberzen/grupp6)
+
+## P1_2015
 Animations week
 For everyone:
 
