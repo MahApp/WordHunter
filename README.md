@@ -7,7 +7,7 @@ You can view them and download them here, check out the WiKi for details:
 
 [Grupp 2: Matkalender](https://github.com/aminamuftic/julkalender)
 
-[Grupp3: ErnstJul](https://github.com/MartenFriman/Julkalender-IDK-g3)
+[Grupp3: Classic Creepy](https://github.com/MartenFriman/Julkalender-IDK-g3)
 
 [Group 6: Hipster goes Santa](https://github.com/emilberzen/grupp6)
 
